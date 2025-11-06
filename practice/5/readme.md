@@ -1,9 +1,9 @@
-Practice 5: Nested Hexagons and Triangles
+Practice 5: Nested Hexagons
 
 Goal: Generate geometry and apply transformations.
 
 Objective:
-Draw nested hexagons alternating with equilateral triangles.
+Draw nested hexagons
 
 Allow the user to change the number of nesting levels (at least 6).
 
